@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ADMIN/Desktop/portfolio_project/Android/QuizApp/app/src/main/res/drawable/correct_option_border_bg.xml" value="0.4161458333333333" />
+        <entry key="..\:/Users/ADMIN/Desktop/portfolio_project/Android/QuizApp/app/src/main/res/drawable/default_option_border_bg.xml" value="0.4161458333333333" />
+        <entry key="..\:/Users/ADMIN/Desktop/portfolio_project/Android/QuizApp/app/src/main/res/drawable/selected_option_border.xml" value="0.4161458333333333" />
+        <entry key="..\:/Users/ADMIN/Desktop/portfolio_project/Android/QuizApp/app/src/main/res/drawable/wrong_option_border_bg.xml" value="0.4161458333333333" />
+        <entry key="..\:/Users/ADMIN/Desktop/portfolio_project/Android/QuizApp/app/src/main/res/layout-v26/activity_result.xml" value="0.37771739130434784" />
+        <entry key="..\:/Users/ADMIN/Desktop/portfolio_project/Android/QuizApp/app/src/main/res/layout/activity_main.xml" value="0.31567028985507245" />
+        <entry key="..\:/Users/ADMIN/Desktop/portfolio_project/Android/QuizApp/app/src/main/res/layout/activity_quiz_question.xml" value="0.3302083333333333" />
+        <entry key="..\:/Users/ADMIN/Desktop/portfolio_project/Android/QuizApp/app/src/main/res/layout/activity_result.xml" value="0.33559782608695654" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
